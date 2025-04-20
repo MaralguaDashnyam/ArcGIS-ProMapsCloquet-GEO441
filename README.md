@@ -1,7 +1,7 @@
 ## ArcGIS Pro GUI: Cloquet Forestry Center Maps
 ✨ by Hera Dashnyam  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1Uk40v5rIJ-UuiZCw5kol9uQbxTJz5e5C?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uk40v5rIJ-UuiZCw5kol9uQbxTJz5e5C?usp=sharing)
 
 This project demonstrates basic map rendering using **ArcGIS Pro** and **Google Colab notebooks** to showcase:
 
